@@ -4,7 +4,7 @@
 - then into the the crazy world of Windows.
  
 - First doing VB and Delphi, then C++, and more recently C#, COBOL and JavaScript!
-- Spent over 20 years working in VB/SQL developing an MRP planning system, now looking to expand further with
+- Spent over 20 years working in SQL developing an MRP planning system, now dabbling with
 - JavaScript and C#! 
 
 <!---
